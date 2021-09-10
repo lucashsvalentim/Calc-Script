@@ -1,0 +1,1 @@
+@SUMRANGE(Conta_recebe_a_Soma, @XRANGE(@LIKE(“30_”, “Account”)))
